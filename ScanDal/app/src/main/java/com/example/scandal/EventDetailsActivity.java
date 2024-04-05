@@ -293,7 +293,6 @@ public class EventDetailsActivity extends AppCompatActivity {
                 });
     }
 
-
         /**
          * Helper method to decode Base64 string to Bitmap.
          *
